@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdsExercise</string>
+    <string name="rewardButtonText">Show a rewarded video</string>
+    <string name="rewardedTextViewText">Rewarded count:</string>
+</resources>

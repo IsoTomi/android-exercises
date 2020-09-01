@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Room Shopping List</string>
+    <string name="dialogNameText">Nimi</string>
+    <string name="dialogCountText">Määrä</string>
+    <string name="dialogPriceText">Hinta</string>
+    <string name="dialog_title">Uusi tuote</string>
+    <string name="dialog_message">Lisää uusi tuote ostoslistaan</string>
+    <string name="dialog_cancel">Peruuta</string>
+    <string name="dialog_ok">Ok</string>
+</resources>
